@@ -2,7 +2,7 @@
   "store.home": { 
     "blocks": [
       "rich-text",
-      "info-card",
+      "info-card#button-left",
       "info-card#button-right"
     ]
   },
@@ -12,10 +12,10 @@
       "textPosition": "RIGHT"
     }
   },
-  "info-card": {
+  "info-card#button-left": {
     "props": {
       "isFullModeStyle": false,
-      "textPosition": "right",
+      "textPosition": "left",
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-rosa-min.png",
       "headline": "Vintage Pink",
       "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
