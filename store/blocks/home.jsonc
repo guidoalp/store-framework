@@ -1,13 +1,12 @@
 {
   "store.home": {
     "blocks": [
-      "flex-layout.row"
+      "shelf"
     ]
   },
-  
-  //Components
 
-  "flex-layout.row":{
+  //Component declarations
+  "flex-layout.row": {
     "children": [
       "info-card#rethink",
       "flex-layout.col"
@@ -23,7 +22,7 @@
       "textPosition": "center"
     }
   },
-  
+
   "flex-layout.col": {
     "children": [
       "image#electronics",
