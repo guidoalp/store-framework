@@ -7,7 +7,7 @@
   },
   "image#landingbanner" : {
     "props": {
-      "maxWidth": "100%",
+      "minWidth": "100%",
       "src": "https://carrefour.com.ar/media/aw_islider/6-CTAS-ELECTRO-DEL-13-de-OCT_al-2_NOV_2020_Desktop-Carrefour-1250x377_2.jpg"
     }
   },
